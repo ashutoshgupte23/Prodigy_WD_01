@@ -10,7 +10,7 @@ Welcome to **Caffeine Corner**! This project features a responsive navigation me
 
 ## 🌐 Project Demo
 
-Check out the Caffeine Corner navigation menu live: [Project Demo](https://prodigyinfotech-caffeine-corner.netlify.app)  
+Check out the Caffeine Corner navigation menu live: [Project Demo](https://github.com/ashutoshgupte23/Prodigy_WD_01/tree/main)  
 *Note: Make sure the demo URL reflects the latest version of the project.*
 
 ## 🚀 Getting Started
@@ -19,11 +19,9 @@ To view or modify the Caffeine Corner project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ThulasiRaman03778/prodigy-infotech-web-internship.git
+  https://github.com/ashutoshgupte23/Prodigy_WD_01/tree/main
 
-2.**Navigate to the Caffeine Corner directory:**
 
-      cd prodigy-infotech-web-internship/PRODIGY_WD01
       
 3.**Open the index.html file in your browser:**
 Simply double-click the index.html file or open it with your preferred web browser to view the navigation menu.
